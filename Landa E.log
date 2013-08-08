@@ -1,0 +1,632 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2013.2.19)  13 MAY 2013 16:27
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"Landa E.tex"
+(./Landa E.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2012-05-30, ngerman-x-2012-05-30, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, friulan, galician, german, ngerman, swissgerman, monogreek, greek, h
+ungarian, icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, ma
+rathi, oriya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, 
+kurmanji, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk,
+ polish, portuguese, romanian, romansh, russian, sanskrit, serbian, serbianc, s
+lovak, slovenian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, 
+welsh, loaded.
+(./pnastwo.cls
+
+
+ Two Column Journal Style for the
+ Proceedings of the National Academy of Science 
+ Written by Amy Hendrickson, TeXnology, Inc., 9/04
+ 
+ This version is dated April 15, 2008
+
+
+Document Class: pnastwo 
+\affilcount=\count79
+\saveaffilcount=\count80
+\c@fnaffilcount=\count81
+\c@part=\count82
+\c@section=\count83
+\c@subsection=\count84
+\c@subsubsection=\count85
+\c@paragraph=\count86
+\c@subparagraph=\count87
+\c@figure=\count88
+\c@table=\count89
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+\bibskip=\skip43
+\footnum=\count90
+\savefootnum=\count91
+\abovefigcaptionskip=\skip44
+\abovetabcaptionskip=\skip45
+\abovetableskip=\skip46
+\belowtabcaptionskip=\dimen103
+\saveparskip=\dimen104
+\captionskip=\dimen105
+\PushOneColTopFig=\dimen106
+\PushOneColBotFig=\dimen107
+\PushOneColTopTab=\dimen108
+\PushOneColBotTab=\dimen109
+\PushTwoColTopFig=\dimen110
+\PushTwoColBotFig=\dimen111
+\PushTwoColTopTab=\dimen112
+\PushTwoColBotTab=\dimen113
+\intextfloatskip=\skip47
+\c@appfigure=\count92
+\c@apptable=\count93
+\c@appplate=\count94
+\checkforspace=\dimen114
+\savetopinsert=\box26
+\savebotinsert=\box27
+\secondsavetopinsert=\box28
+\secondsavebotinsert=\box29
+\firstcolbox=\box30
+\secondcolbox=\box31
+\thefirstbox=\box32
+\thesecondbox=\box33
+\firstcol=\dimen115
+\secondcol=\dimen116
+\checkheight=\dimen117
+\loopnum=\count95
+\firstcolsavefignum=\count96
+\footnotebox=\box34
+\ColUsed=\dimen118
+\FigSpace=\dimen119
+\testdblbotins=\box35
+\pageloopnum=\count97
+\endcolsavetopinsert=\box36
+\endcolsavebotinsert=\box37
+\testpagesize=\box38
+\savelastskip=\dimen120
+\partialpage=\box39
+\figandtabnumber=\count98
+\figandtabbox=\box40
+\pagefloatnumber=\count99
+\sizeoffloat=\box41
+\bogus=\count100
+\figinsert=\insert233
+\herebox=\box42
+\endfigbox=\box43
+\spanbox=\box44
+\dbltopins=\box45
+\dblbotins=\box46
+\dblbotskip=\skip48
+\dblfigandtabnumber=\count101
+\dblfigandtabbox=\box47
+\dblloopnum=\count102
+\savedblfigandtabnumber=\count103
+\dblspanherebox=\box48
+\captionwidth=\dimen121
+\widecaptionwidth=\dimen122
+\tablenoteloopnum=\count104
+\tablenotenum=\count105
+\c@theorem=\count106
+\c@lemma=\count107
+\c@definition=\count108
+\c@claim=\count109
+\c@alemma=\count110
+\c@remark=\count111
+\tablewide=\box49
+) (/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count112
+))
+\Gin@req@height=\dimen123
+\Gin@req@width=\dimen124
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen125
+\epsfysize=\dimen126
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip49
+\subfigcapskip=\skip50
+\subfigcaptopadj=\dimen127
+\subfigbottomskip=\skip51
+\subfigcapmargin=\dimen128
+\subfiglabelskip=\skip52
+\c@subfigure=\count113
+\c@lofdepth=\count114
+\c@subtable=\count115
+\c@lotdepth=\count116
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/local/texlive/2012/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip53
+\subfig@bottom=\skip54
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip55
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen129
+))
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen130
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count117
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count118
+\leftroot@=\count119
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count120
+\DOTSCASE@=\count121
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen131
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count122
+\c@MaxMatrixCols=\count123
+\dotsspace@=\muskip10
+\c@parentequation=\count124
+\dspbrk@lvl=\count125
+\tag@help=\toks17
+\row@=\count126
+\column@=\count127
+\maxfields@=\count128
+\andhelp@=\toks18
+\eqnshift@=\dimen132
+\alignsep@=\dimen133
+\tagshift@=\dimen134
+\tagwidth@=\dimen135
+\totwidth@=\dimen136
+\lineht@=\dimen137
+\@envbody=\toks19
+\multlinegap=\skip56
+\multlinetaggap=\skip57
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(./Landa E.aux)
+\openout1 = `"Landa E.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+
+(/usr/local/texlive/2012/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count129
+\scratchdimen=\dimen138
+\scratchbox=\box52
+\nofMPsegments=\count130
+\nofMParguments=\count131
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count132
+\MPscratchDim=\dimen139
+\MPnumerator=\count133
+\makeMPintoPDFobject=\count134
+\everyMPtoPDFconversion=\toks22
+) (/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Try loading font information for U+msa on input line 30.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 30.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+) [1
+
+{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Missing character: There is no É in font cmr9!
+ [2] [3] [4] [5]
+Package epstopdf Info: Source file: <figure1.eps>
+(epstopdf)                    date: 2012-05-11 01:14:16
+(epstopdf)                    size: 937030 bytes
+(epstopdf)             Output file: <figure1-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-02-19 19:41:49
+(epstopdf)                    size: 4888 bytes
+(epstopdf)             Command: <repstopdf --outfile=figure1-eps-converted-to.p
+df figure1.eps>
+(epstopdf)             \includegraphics on input line 116.
+Package epstopdf Info: Output file is already uptodate.
+
+<figure1-eps-converted-to.pdf, id=33, 776.9025pt x 198.7425pt>
+File: figure1-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figure1-eps-converted-to.pdf>
+Package pdftex.def Info: figure1-eps-converted-to.pdf used on input line 116.
+(pdftex.def)             Requested size: 510.0pt x 130.46689pt.
+
+Overfull \hbox (234.0pt too wide) in paragraph at lines 116--117
+[][] 
+ []
+
+Package epstopdf Info: Source file: <figure2.eps>
+(epstopdf)                    date: 2012-07-17 21:37:23
+(epstopdf)                    size: 742596 bytes
+(epstopdf)             Output file: <figure2-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-02-19 19:46:14
+(epstopdf)                    size: 19685 bytes
+(epstopdf)             Command: <repstopdf --outfile=figure2-eps-converted-to.p
+df figure2.eps>
+(epstopdf)             \includegraphics on input line 123.
+Package epstopdf Info: Output file is already uptodate.
+<figure2-eps-converted-to.pdf, id=34, 661.47125pt x 184.69pt>
+File: figure2-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figure2-eps-converted-to.pdf>
+Package pdftex.def Info: figure2-eps-converted-to.pdf used on input line 123.
+(pdftex.def)             Requested size: 510.0pt x 142.39772pt.
+
+Overfull \hbox (234.0pt too wide) in paragraph at lines 123--124
+[][] 
+ []
+
+Package epstopdf Info: Source file: <figure3.eps>
+(epstopdf)                    date: 2012-01-28 19:17:01
+(epstopdf)                    size: 1160613 bytes
+(epstopdf)             Output file: <figure3-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-02-19 19:46:15
+(epstopdf)                    size: 30254 bytes
+(epstopdf)             Command: <repstopdf --outfile=figure3-eps-converted-to.p
+df figure3.eps>
+(epstopdf)             \includegraphics on input line 130.
+Package epstopdf Info: Output file is already uptodate.
+<figure3-eps-converted-to.pdf, id=35, 848.16875pt x 676.5275pt>
+File: figure3-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figure3-eps-converted-to.pdf>
+Package pdftex.def Info: figure3-eps-converted-to.pdf used on input line 130.
+(pdftex.def)             Requested size: 510.0pt x 406.79707pt.
+
+Overfull \hbox (234.0pt too wide) in paragraph at lines 130--131
+[][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package epstopdf Info: Source file: <figure4.eps>
+(epstopdf)                    date: 2012-05-12 20:26:10
+(epstopdf)                    size: 1026566 bytes
+(epstopdf)             Output file: <figure4-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-02-19 19:46:15
+(epstopdf)                    size: 50226 bytes
+(epstopdf)             Command: <repstopdf --outfile=figure4-eps-converted-to.p
+df figure4.eps>
+(epstopdf)             \includegraphics on input line 137.
+Package epstopdf Info: Output file is already uptodate.
+<figure4-eps-converted-to.pdf, id=36, 831.105pt x 610.28pt>
+File: figure4-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figure4-eps-converted-to.pdf>
+Package pdftex.def Info: figure4-eps-converted-to.pdf used on input line 137.
+(pdftex.def)             Requested size: 510.0pt x 374.49585pt.
+
+Overfull \hbox (234.0pt too wide) in paragraph at lines 137--138
+[][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package epstopdf Info: Source file: <figure5.eps>
+(epstopdf)                    date: 2013-05-02 20:40:15
+(epstopdf)                    size: 353534 bytes
+(epstopdf)             Output file: <figure5-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-05-02 22:45:47
+(epstopdf)                    size: 8763 bytes
+(epstopdf)             Command: <repstopdf --outfile=figure5-eps-converted-to.p
+df figure5.eps>
+(epstopdf)             \includegraphics on input line 144.
+Package epstopdf Info: Output file is already uptodate.
+<figure5-eps-converted-to.pdf, id=37, 532.99126pt x 324.21124pt>
+File: figure5-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figure5-eps-converted-to.pdf>
+Package pdftex.def Info: figure5-eps-converted-to.pdf used on input line 144.
+(pdftex.def)             Requested size: 510.0pt x 310.235pt.
+
+Overfull \hbox (234.0pt too wide) in paragraph at lines 144--145
+[][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package epstopdf Info: Source file: <figure6.eps>
+(epstopdf)                    date: 2012-08-06 16:44:10
+(epstopdf)                    size: 2227261 bytes
+(epstopdf)             Output file: <figure6-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-02-19 19:46:16
+(epstopdf)                    size: 94548 bytes
+(epstopdf)             Command: <repstopdf --outfile=figure6-eps-converted-to.p
+df figure6.eps>
+(epstopdf)             \includegraphics on input line 151.
+Package epstopdf Info: Output file is already uptodate.
+<figure6-eps-converted-to.pdf, id=38, 716.6775pt x 513.92pt>
+File: figure6-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figure6-eps-converted-to.pdf>
+Package pdftex.def Info: figure6-eps-converted-to.pdf used on input line 151.
+(pdftex.def)             Requested size: 510.0pt x 365.71696pt.
+
+Overfull \hbox (234.0pt too wide) in paragraph at lines 151--152
+[][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package epstopdf Info: Source file: <figure7.eps>
+(epstopdf)                    date: 2012-05-15 22:02:34
+(epstopdf)                    size: 1340540 bytes
+(epstopdf)             Output file: <figure7-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-02-19 19:46:17
+(epstopdf)                    size: 17839 bytes
+(epstopdf)             Command: <repstopdf --outfile=figure7-eps-converted-to.p
+df figure7.eps>
+(epstopdf)             \includegraphics on input line 158.
+Package epstopdf Info: Output file is already uptodate.
+<figure7-eps-converted-to.pdf, id=39, 619.31375pt x 357.335pt>
+File: figure7-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figure7-eps-converted-to.pdf>
+Package pdftex.def Info: figure7-eps-converted-to.pdf used on input line 158.
+(pdftex.def)             Requested size: 510.0pt x 294.27611pt.
+
+Overfull \hbox (234.0pt too wide) in paragraph at lines 158--159
+[][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package epstopdf Info: Source file: <figure8.eps>
+(epstopdf)                    date: 2012-01-16 00:13:16
+(epstopdf)                    size: 2492348 bytes
+(epstopdf)             Output file: <figure8-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-02-19 19:46:18
+(epstopdf)                    size: 112558 bytes
+(epstopdf)             Command: <repstopdf --outfile=figure8-eps-converted-to.p
+df figure8.eps>
+(epstopdf)             \includegraphics on input line 165.
+Package epstopdf Info: Output file is already uptodate.
+<figure8-eps-converted-to.pdf, id=40, 833.1125pt x 494.84875pt>
+File: figure8-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figure8-eps-converted-to.pdf>
+Package pdftex.def Info: figure8-eps-converted-to.pdf used on input line 165.
+(pdftex.def)             Requested size: 510.0pt x 302.9295pt.
+
+Overfull \hbox (234.0pt too wide) in paragraph at lines 165--166
+[][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package epstopdf Info: Source file: <figure9.eps>
+(epstopdf)                    date: 2012-01-16 01:24:07
+(epstopdf)                    size: 2561831 bytes
+(epstopdf)             Output file: <figure9-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-02-19 19:46:19
+(epstopdf)                    size: 128993 bytes
+(epstopdf)             Command: <repstopdf --outfile=figure9-eps-converted-to.p
+df figure9.eps>
+(epstopdf)             \includegraphics on input line 172.
+Package epstopdf Info: Output file is already uptodate.
+<figure9-eps-converted-to.pdf, id=41, 831.105pt x 509.905pt>
+File: figure9-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figure9-eps-converted-to.pdf>
+Package pdftex.def Info: figure9-eps-converted-to.pdf used on input line 172.
+(pdftex.def)             Requested size: 510.0pt x 312.90114pt.
+
+Overfull \hbox (234.0pt too wide) in paragraph at lines 172--173
+[][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package epstopdf Info: Source file: <figure10.eps>
+(epstopdf)                    date: 2012-01-16 12:33:47
+(epstopdf)                    size: 2548767 bytes
+(epstopdf)             Output file: <figure10-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-02-19 19:46:19
+(epstopdf)                    size: 123882 bytes
+(epstopdf)             Command: <repstopdf --outfile=figure10-eps-converted-to.
+pdf figure10.eps>
+(epstopdf)             \includegraphics on input line 179.
+Package epstopdf Info: Output file is already uptodate.
+<figure10-eps-converted-to.pdf, id=42, 845.1575pt x 498.86375pt>
+File: figure10-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figure10-eps-converted-to.pdf>
+Package pdftex.def Info: figure10-eps-converted-to.pdf used on input line 179.
+(pdftex.def)             Requested size: 510.0pt x 301.04088pt.
+
+Overfull \hbox (234.0pt too wide) in paragraph at lines 179--180
+[][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package epstopdf Info: Source file: <figure11.eps>
+(epstopdf)                    date: 2012-01-16 13:25:31
+(epstopdf)                    size: 2462329 bytes
+(epstopdf)             Output file: <figure11-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-02-19 19:46:20
+(epstopdf)                    size: 127429 bytes
+(epstopdf)             Command: <repstopdf --outfile=figure11-eps-converted-to.
+pdf figure11.eps>
+(epstopdf)             \includegraphics on input line 186.
+Package epstopdf Info: Output file is already uptodate.
+<figure11-eps-converted-to.pdf, id=43, 828.09375pt x 491.8375pt>
+File: figure11-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figure11-eps-converted-to.pdf>
+Package pdftex.def Info: figure11-eps-converted-to.pdf used on input line 186.
+(pdftex.def)             Requested size: 510.0pt x 302.9173pt.
+
+Overfull \hbox (234.0pt too wide) in paragraph at lines 186--187
+[][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[6 <./figure1-eps-converted-to.pdf> <./figure2-eps-converted-to.pdf>] [7 <./fig
+ure3-eps-converted-to.pdf>] [8 <./figure4-eps-converted-to.pdf>] [9 <./figure5-
+eps-converted-to.pdf>] [10 <./figure6-eps-converted-to.pdf>] [11 <./figure7-eps
+-converted-to.pdf>] [12 <./figure8-eps-converted-to.pdf>] [13 <./figure9-eps-co
+nverted-to.pdf>] [14 <./figure10-eps-converted-to.pdf>] [15 <./figure11-eps-con
+verted-to.pdf>] (./Landa E.aux) ) 
+Here is how much of TeX's memory you used:
+ 3089 strings out of 493488
+ 40756 string characters out of 3141326
+ 134659 words of memory out of 3000000
+ 6342 multiletter control sequences out of 15000+200000
+ 15346 words of font info for 56 fonts, out of 3000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 38i,10n,24p,8879b,241s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2012/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/
+public/amsfonts/cmextra/cmex9.pfb></usr/local/texlive/2012/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr5.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr6.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmr8.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr9.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmss10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmssbx10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmssi10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmsy5.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmsy6.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy9.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti
+9.pfb>
+Output written on "Landa E.pdf" (15 pages, 915248 bytes).
+PDF statistics:
+ 166 PDF objects out of 1000 (max. 8388607)
+ 108 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+
